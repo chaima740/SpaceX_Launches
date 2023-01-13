@@ -1,5 +1,5 @@
-# SpaceX_Launches
-## Analysis and Prediction of SpaceX launches outcome
+# SpaceX_Launches 🚀💲
+## Analysis and Prediction of SpaceX launches outcome for cost forecasting
 
 
 <i> Objective: Forecasting the success of the next launch. </i>
